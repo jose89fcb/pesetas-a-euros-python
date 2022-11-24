@@ -1,4 +1,4 @@
-pesetas=int(input("Dame la cantidad: "))
+pesetas=int(input("Cantidad: "))
 
 euros=pesetas / 166
 
