@@ -1,10 +1,7 @@
-pesetas=int(input("Cantidad: "))
+pesetas=int(input("Dame la cantidad: "))
 
-euros=pesetas / 166
-
-cantidad = round(euros)
+cantidad = round(pesetas/166)
 
 print(cantidad, "Euros")
-
 
 
